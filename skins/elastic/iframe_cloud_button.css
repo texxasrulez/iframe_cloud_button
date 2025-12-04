@@ -1,0 +1,4 @@
+/* iframe_cloud_button: Elastic skin icon using two images */
+#taskmenu a.button-iframe-cloud:before {
+    content: "\f0c2";
+}

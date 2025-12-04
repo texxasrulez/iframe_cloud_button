@@ -1,0 +1,9 @@
+<?php
+##
+## iframe_cloud_button configuration file
+##
+
+// URL to open inside the iframe (e.g. your cloud UI)
+$config['iframe_cloud_button_url'] = 'https://cloud.example.com';
+
+?>

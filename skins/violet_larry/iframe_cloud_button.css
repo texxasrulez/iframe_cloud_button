@@ -1,0 +1,9 @@
+/* iframe_cloud_button: Larry-style taskbar button */
+#taskbar a.button-iframe-cloud span.button-inner {
+    background: url(images/iframe_cloud_button.png) 0 0px no-repeat;
+}
+
+#taskbar a.button-iframe-cloud:hover span.button-inner,
+#taskbar a.button-iframe-cloud.button-selected span.button-inner {
+    background-image: url(images/iframe_cloud_button_selected.png);
+}
