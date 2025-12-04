@@ -10,6 +10,7 @@
 [![Donate Paypal](https://img.shields.io/badge/Paypal-Money_Please!-blue.svg?style=plastic&labelColor=blue&color=forestgreen&logo=paypal)](https://www.paypal.me/texxasrulez)
 
 =======================================
+
 Plugin to add button in taskbar to open cloud storage within the Roundcube UI.
 
 Configuration
